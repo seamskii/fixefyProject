@@ -58,7 +58,7 @@ export const MainInformationComponent: React.FC<MainInformationComponentProps> =
               Total Title
             </Typography>
           </Box>
-          <Box sx={{ marginTop: "30px" }}>
+          <Box sx={{ marginTop: "18px" }}>
             <TotalTitle />
           </Box>
         </Box>
